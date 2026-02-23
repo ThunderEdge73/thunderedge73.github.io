@@ -1,2 +1,2 @@
-# thunderedge73.github.io
+# ThunderEdge's Website
 My personal website.
