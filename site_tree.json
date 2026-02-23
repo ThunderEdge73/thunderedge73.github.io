@@ -6,26 +6,26 @@
             "thumbnail": null
         }
     ],
-    "pages": {
-        "home": {
+    "pages": [
+        {
             "name": "Home",
             "link": "/index.html"
         },
-        "blogs": {
+        {
             "name": "Blogs",
             "link": "/pages/blogs.html"
         },
-        "socials": {
+        {
             "name": "Socials",
             "link": "/pages/socials.html"
         },
-        "projects": {
+        {
             "name": "Projects",
             "link": "/pages/projects.html"
         },
-        "about_me": {
+        {
             "name": "About Me",
             "link": "/pages/about_me.html"
         }
-    }
+    ]
 }
