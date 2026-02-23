@@ -1,0 +1,31 @@
+{
+    "blogs": [
+        {
+            "name": "Making a Website",
+            "summary": "Learning Javascript, CSS and HTML to make a website is certainly... an experience.",
+            "thumbnail": null
+        }
+    ],
+    "pages": {
+        "home": {
+            "name": "Home",
+            "link": "/index.html"
+        },
+        "blogs": {
+            "name": "Blogs",
+            "link": "/pages/blogs.html"
+        },
+        "socials": {
+            "name": "Socials",
+            "link": "/pages/socials.html"
+        },
+        "projects": {
+            "name": "Projects",
+            "link": "/pages/projects.html"
+        },
+        "about_me": {
+            "name": "About Me",
+            "link": "/pages/about_me.html"
+        }
+    }
+}

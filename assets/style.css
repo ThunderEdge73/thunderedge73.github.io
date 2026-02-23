@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Voces&display=swap');
+
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    font-size: inherit;
+    font-family: "Voces", sans-serif;
+    font-style: normal;
+}
+
+
